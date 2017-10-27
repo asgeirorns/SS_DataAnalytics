@@ -6,6 +6,7 @@
     #by Greanne Leeftink and Erwin W. Hans (2017)
 
 #Next steps: Clean the data - gives wrong results for some cases
+#        +The formulas are not calculating correctly for some cases 
 #        +Some data is missing
 #--------------------------------------------------------------------#
 import pandas as pd
